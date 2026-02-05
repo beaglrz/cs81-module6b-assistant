@@ -43,6 +43,9 @@ myAssistant.addTask("Do Laundry");
 myAssistant.addTask("Cook Lunch");
 myAssistant.addTask("Go to the Gym");
 
+console.log("Starting Daily Tasks.");
+
+
 // Tasks Left to Complete
 console.log(`You have ${myAssistant.tasks.length} tasks left.`);
 
@@ -51,6 +54,7 @@ myAssistant.mood = "Productive";
 myAssistant.reportMood();
 
 //Complete Task
+myAssistant.completeTask();
 myAssistant.completeTask();
 
 // End of Day Mood
