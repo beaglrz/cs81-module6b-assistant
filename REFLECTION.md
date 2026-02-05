@@ -7,4 +7,4 @@ My assistant felt personal because I used real tasks from my daily life, like do
 At first, I wasn’t entirely sure what the 'this'(what is doing the action) keyword referred to inside the method (action). After testing the code, I realized that ‘this' represents the assistant object calling the method, which helped me understand how the same methods update the correct tasks and mood.
 
 3. **Which method would you improve or expand?**
-I would expand the ‘completeTask()' method to handle completing tasks one at a time, with clearer output between each task. I wanted it to feel like the program was moving step by step, rather than everything happening at once.
+I would expand the ‘completeTask()' method to handle completing tasks one at a time with clearer output between each task. I wanted it to feel like the program was moving step by step rather than everything happening at once.
